@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="injor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/injor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/injor.jar!/" />
+    </SOURCES>
+  </library>
+</component>

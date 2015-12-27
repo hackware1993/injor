@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">皮肤测试</string>
+    <string name="title_activity_home">皮肤测试</string>
+    <string name="load_white_skin">白天模式(当前)</string>
+    <string name="load_white_skin_dark">切换到白天模式(内置)</string>
+    <string name="load_dark_skin">切换到夜晚模式(内置)</string>
+    <string name="load_dark_skin_dark">夜晚模式(当前)</string>
+    <string name="load_default_skin">恢复默认</string>
+    <string name="load_plugin_skin">加载皮肤插件</string>
+    <string name="load_plugin_skin_dark">加载皮肤插件</string>
+    <string name="skin_configuration">皮肤框架配置</string>
+    <string name="enable_async_load_skin">已启用皮肤异步加载</string>
+    <string name="disable_async_load_skin">已禁用皮肤异步加载</string>
+    <string name="title_activity_setting">设置</string>
+    <string name="button_num_setting">设置</string>
+    <string name="changing_skin">正在切换</string>
+    <string name="dynamic_button">动态按钮</string>
+    <string name="feature_hint">功能特性(建议更改后重启)</string>
+    <string name="performance_test_hint">动态按钮数量，用于性能测试(重启后生效)</string>
+    <string name="enabled_feature">已启用</string>
+    <string name="disabled_feature">已禁用</string>
+    <string name="time_usage">耗时：</string>
+
+</resources>

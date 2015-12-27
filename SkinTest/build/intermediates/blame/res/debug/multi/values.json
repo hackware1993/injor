@@ -1,0 +1,579 @@
+[
+    {
+        "outputFile": "G:\\code\\trunk\\SkinTest\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 44,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 49,
+                    "endOffset": 145
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 49,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 150,
+                    "endColumn": 53,
+                    "endOffset": 199
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 53,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 204,
+                    "endColumn": 39,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 39,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 244,
+                    "endColumn": 44,
+                    "endOffset": 284
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 44,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 289,
+                    "endColumn": 45,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 45,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 50,
+                    "endOffset": 381
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endColumn": 50,
+                        "endOffset": 239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 386,
+                    "endColumn": 47,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\integers.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 47,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 434,
+                    "endColumn": 41,
+                    "endOffset": 471
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 41,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 476,
+                    "endColumn": 49,
+                    "endOffset": 521
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 784,
+                        "endColumn": 49,
+                        "endOffset": 829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 526,
+                    "endColumn": 46,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 835,
+                        "endColumn": 46,
+                        "endOffset": 877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endColumn": 61,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 61,
+                        "endOffset": 723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endColumn": 48,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endColumn": 48,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 47,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 883,
+                        "endColumn": 47,
+                        "endOffset": 926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endColumn": 60,
+                    "endOffset": 788
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 604,
+                        "endColumn": 60,
+                        "endOffset": 660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 793,
+                    "endColumn": 47,
+                    "endOffset": 836
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1060,
+                        "endColumn": 47,
+                        "endOffset": 1103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 841,
+                    "endColumn": 54,
+                    "endOffset": 891
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 932,
+                        "endColumn": 54,
+                        "endOffset": 982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 896,
+                    "endColumn": 54,
+                    "endOffset": 946
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 54,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 951,
+                    "endColumn": 56,
+                    "endOffset": 1003
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 56,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1008,
+                    "endColumn": 50,
+                    "endOffset": 1054
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 50,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1059,
+                    "endColumn": 51,
+                    "endOffset": 1106
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 438,
+                        "endColumn": 51,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1111,
+                    "endColumn": 56,
+                    "endOffset": 1163
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 56,
+                        "endOffset": 543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1168,
+                    "endColumn": 52,
+                    "endOffset": 1216
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endColumn": 52,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1221,
+                    "endColumn": 60,
+                    "endOffset": 1277
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 60,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1282,
+                    "endColumn": 70,
+                    "endOffset": 1348
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 988,
+                        "endColumn": 70,
+                        "endOffset": 1054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1353,
+                    "endColumn": 53,
+                    "endOffset": 1402
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endColumn": 53,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1407,
+                    "endColumn": 42,
+                    "endOffset": 1445
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endColumn": 42,
+                        "endOffset": 1197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1450,
+                    "endColumn": 52,
+                    "endOffset": 1498
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 52,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1503,
+                    "endColumn": 53,
+                    "endOffset": 1552
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 729,
+                        "endColumn": 53,
+                        "endOffset": 778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1557,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1727
+                },
+                "from": {
+                    "file": "G:\\code\\trunk\\SkinTest\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 231
+                    }
+                }
+            }
+        ]
+    }
+]

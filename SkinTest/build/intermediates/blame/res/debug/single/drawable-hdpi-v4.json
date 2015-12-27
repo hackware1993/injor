@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\code\\trunk\\SkinTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_pressed.9.png",
+        "source": "G:\\code\\trunk\\SkinTest\\res\\drawable-hdpi\\btn_pressed.9.png"
+    },
+    {
+        "merged": "G:\\code\\trunk\\SkinTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_normal_dark.9.png",
+        "source": "G:\\code\\trunk\\SkinTest\\res\\drawable-hdpi\\btn_normal_dark.9.png"
+    },
+    {
+        "merged": "G:\\code\\trunk\\SkinTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "G:\\code\\trunk\\SkinTest\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\code\\trunk\\SkinTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_pressed_dark.9.png",
+        "source": "G:\\code\\trunk\\SkinTest\\res\\drawable-hdpi\\btn_pressed_dark.9.png"
+    },
+    {
+        "merged": "G:\\code\\trunk\\SkinTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_normal.9.png",
+        "source": "G:\\code\\trunk\\SkinTest\\res\\drawable-hdpi\\btn_normal.9.png"
+    }
+]

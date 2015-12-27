@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="G:\code\trunk\SkinTest\assets"><file name="fonts/custom_font.ttf" path="G:\code\trunk\SkinTest\assets\fonts\custom_font.ttf"/><file name="fonts/custom_font_dark.ttf" path="G:\code\trunk\SkinTest\assets\fonts\custom_font_dark.ttf"/></source></dataSet><dataSet config="debug"><source path="G:\code\trunk\SkinTest\build-types\debug\assets"/></dataSet></merger>

@@ -1,0 +1,51 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:tag="skin:background:background|skin:brightness:brightNess"
+    tools:context="com.iflytek.main.Home" >
+
+    <LinearLayout
+        android:id="@+id/root"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="5dp" >
+
+        <Button
+            android:id="@+id/load_white_skin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:onClick="onClick"
+            android:tag="skin:btn_color:textColor|skin:btn_background:background|skin:load_white_skin:text|skin:font_size:textSize|skin:custom_font:typeface" />
+
+        <Button
+            android:id="@+id/load_dark_skin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:onClick="onClick"
+            android:tag="skin:btn_color:textColor|skin:btn_background:background|skin:load_dark_skin:text|skin:font_size:textSize|skin:custom_font:typeface" />
+
+        <Button
+            android:id="@+id/load_plugin_skin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:onClick="onClick"
+            android:tag="skin:btn_color:textColor|skin:btn_background:background|skin:load_plugin_skin:text|skin:font_size:textSize|skin:custom_font:typeface" />
+
+        <Button
+            android:id="@+id/start_new_activity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:onClick="onClick"
+            android:tag="skin:btn_color:textColor"
+            android:text="@string/skin_configuration" />
+    </LinearLayout>
+
+</ScrollView>

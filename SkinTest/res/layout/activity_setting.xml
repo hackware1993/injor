@@ -1,0 +1,85 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:tag="skin:background:background|skin:brightness:brightNess"
+    tools:context="com.iflytek.main.SettingActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="5dp"
+        android:tag="skin:background:background" >
+
+        <Button
+            android:id="@+id/load_white_skin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:onClick="onClick"
+            android:tag="skin:btn_color:textColor|skin:btn_background:background|skin:load_white_skin:text|skin:font_size_large:textSize|skin:custom_font:typeface" />
+
+        <Button
+            android:id="@+id/load_dark_skin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:onClick="onClick"
+            android:tag="skin:btn_color:textColor|skin:btn_background:background|skin:load_dark_skin:text|skin:font_size_large:textSize|skin:custom_font:typeface" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:tag="skin:btn_color:textColor"
+            android:text="@string/feature_hint" />
+
+        <Button
+            android:id="@+id/enable_async_load_skin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:onClick="onClick"
+            android:tag="skin:btn_color:textColor" />
+
+        <LinearLayout
+            android:id="@+id/feature_area"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:tag="skin:btn_color:textColor"
+            android:text="@string/performance_test_hint" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <EditText
+                android:id="@+id/button_num_edit"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:inputType="number"
+                android:singleLine="true"
+                android:tag="skin:btn_color:textColor" />
+
+            <Button
+                android:id="@+id/button_num_setting"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onClick"
+                android:tag="skin:btn_color:textColor"
+                android:text="@string/button_num_setting" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>
