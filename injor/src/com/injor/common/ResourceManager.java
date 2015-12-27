@@ -162,15 +162,17 @@ public class ResourceManager {
 	public Typeface getTypeface(String name) {
 		String key;
 		String param;
-		FontCacheManager cacheManager = FontCacheManager.getInstance();
-		Typeface typeface = null;
+		CacheManager cacheManager = CacheManager.getInstance();
 		try {
 			param = "fonts/" + appendSuffix(name) + ".ttf";
 			key = ((mCurrentResources == mDefaultResources) ? "typeface_internal://" : "typeface_plugin://") + param;
-			typeface = cacheManager.get(key);
-			if (typeface == null) {
-				typeface = Typeface.createFromAsset(mCurrentResources.getAssets(), param);
+			Object object = cacheManager.get(key);
+			if (object != null) {
+				return (Typeface) object;
+			} else {
+				Typeface typeface = Typeface.createFromAsset(mCurrentResources.getAssets(), param);
 				cacheManager.put(key, typeface);
+				return typeface;
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -178,13 +180,19 @@ public class ResourceManager {
 				try {
 					param = "fonts/" + name + ".ttf";
 					key = "typeface_internal://" + param;
-					typeface = Typeface.createFromAsset(mDefaultResources.getAssets(), param);
-					cacheManager.put(key, typeface);
+					Object object = cacheManager.get(key);
+					if (object != null) {
+						return (Typeface) object;
+					} else {
+						Typeface typeface = Typeface.createFromAsset(mDefaultResources.getAssets(), param);
+						cacheManager.put(key, typeface);
+						return typeface;
+					}
 				} catch (Exception e2) {
 					e2.printStackTrace();
 				}
 			}
+			return null;
 		}
-		return typeface;
 	}
 }
