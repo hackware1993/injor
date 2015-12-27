@@ -27,4 +27,4 @@
 **injor**不会引入额外的兼容性问题，内部的兼容性的问题都已经处理，甚至都考虑了获取apiLevel的兼容性，吹牛B的说，兼容至Android 1.0。
 
 #引入及用法
-正在编辑...  99%
+正在编辑...  99%，<a href="https://github.com/hongyangAndroid/AndroidChangeSkin">等不及了？</a>
